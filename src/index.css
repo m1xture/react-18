@@ -1,0 +1,16 @@
+@import-normalize;
+
+* {
+  padding: 0;
+  margin: 0;
+  border: none;
+  outline: none;
+}
+
+body {
+  font-family: "Nunito Sans";
+  background-color: #000;
+}
+pre {
+  font-family: "Nunito Sans";
+}
